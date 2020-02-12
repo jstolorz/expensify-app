@@ -1,9 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5832b3ad-1f8d-4f07-9125-e10697790d59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddExpensePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditExpensePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDashboardPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseListFilters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpenseListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelpExpensePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NotFoundPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/destructoring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/hoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/redux-101.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/redux-expensify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base/_settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__mocks__/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/actions/expenses.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/actions/filters.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/add.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/AddExpensePage.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/EditExpensePage.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseDashboardPage.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseForm.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseList.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpensesListItem.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/Header.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/components/NotFoundPage.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/fixtures/expenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/fixtures/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/reducers/expenses.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/reducers/filters.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/selectors/expenses.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1X4gCCqaiQhfmqBEg7AX5e4uJDX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio-site" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.should handle date focus changes">
+    <configuration name="should handle date change" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+      <test-names>
+        <test-name value="should handle date change" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should handle date focus changes" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+      <test-names>
+        <test-name value="should handle date focus changes" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should handle sort by amount" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+      <test-names>
+        <test-name value="should handle sort by amount" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should handle sort by date" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+      <test-names>
+        <test-name value="should handle sort by date" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should handle text change" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" />
+      <test-names>
+        <test-name value="should handle text change" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.should handle date focus changes" />
+        <item itemvalue="Jest.should handle date change" />
+        <item itemvalue="Jest.should handle sort by amount" />
+        <item itemvalue="Jest.should handle sort by date" />
+        <item itemvalue="Jest.should handle text change" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5832b3ad-1f8d-4f07-9125-e10697790d59" name="Default Changelist" comment="" />
+      <created>1580310650759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580310650759</updated>
+      <workItem from="1580310652777" duration="1460000" />
+      <workItem from="1580374823183" duration="11996000" />
+      <workItem from="1580397763030" duration="25000" />
+      <workItem from="1580470153508" duration="4363000" />
+      <workItem from="1580550885300" duration="1196000" />
+      <workItem from="1580560873561" duration="1983000" />
+      <workItem from="1580633802363" duration="2469000" />
+      <workItem from="1580643209583" duration="8225000" />
+      <workItem from="1580722370175" duration="5386000" />
+      <workItem from="1580734997668" duration="6917000" />
+      <workItem from="1580806877956" duration="9375000" />
+      <workItem from="1580894427015" duration="18136000" />
+      <workItem from="1580980107976" duration="14081000" />
+      <workItem from="1581064291715" duration="2331000" />
+      <workItem from="1581070553089" duration="15566000" />
+      <workItem from="1581147469877" duration="3436000" />
+      <workItem from="1581152070556" duration="4506000" />
+      <workItem from="1581329857711" duration="14494000" />
+      <workItem from="1581414292573" duration="13267000" />
+      <workItem from="1581496721783" duration="17555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="164" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581083315948">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state x="100" y="164" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581083315948" />
+    <state x="643" y="325" width="624" height="552" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580734963906">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state x="643" y="325" width="624" height="552" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1580734963906" />
+    <state x="437" y="331" width="1036" height="541" key="EditFileWatcherDialog" timestamp="1580311136563">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state x="437" y="331" width="1036" height="541" key="EditFileWatcherDialog/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1580311136563" />
+    <state x="687" y="288" width="524" height="622" key="FileChooserDialogImpl" timestamp="1580395848390">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state x="687" y="288" width="524" height="622" key="FileChooserDialogImpl/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1580395848390" />
+    <state width="1894" height="210" key="GridCell.Tab.0.bottom" timestamp="1581519520286">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581160918255" />
+    <state width="1894" height="210" key="GridCell.Tab.0.bottom/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581519520286" />
+    <state width="1894" height="210" key="GridCell.Tab.0.center" timestamp="1581519520286">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="263" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581160918255" />
+    <state width="1894" height="210" key="GridCell.Tab.0.center/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581519520286" />
+    <state width="1894" height="210" key="GridCell.Tab.0.left" timestamp="1581519520285">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="263" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581160918255" />
+    <state width="1894" height="210" key="GridCell.Tab.0.left/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581519520284" />
+    <state width="1894" height="210" key="GridCell.Tab.0.right" timestamp="1581519520286">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="263" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581160918255" />
+    <state width="1894" height="210" key="GridCell.Tab.0.right/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581519520286" />
+    <state x="325" y="86" key="SettingsEditor" timestamp="1581151056249">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="325" y="86" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581151056249" />
   </component>
 </project>
