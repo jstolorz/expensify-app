@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5832b3ad-1f8d-4f07-9125-e10697790d59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddExpensePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EditExpensePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseDashboardPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseListFilters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HelpExpensePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NotFoundPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/destructoring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/hoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/redux-101.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/redux-expensify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/AppRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectors/expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/configureStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/base/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/base/_settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__mocks__/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/actions/expenses.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/actions/filters.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/add.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/AddExpensePage.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/EditExpensePage.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseDashboardPage.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseForm.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseList.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpenseListFilters.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/ExpensesListItem.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/Header.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/components/NotFoundPage.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/fixtures/expenses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/fixtures/filters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/reducers/expenses.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/reducers/filters.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/selectors/expenses.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,12 +174,23 @@
       <workItem from="1581152070556" duration="4506000" />
       <workItem from="1581329857711" duration="14494000" />
       <workItem from="1581414292573" duration="13267000" />
-      <workItem from="1581496721783" duration="17555000" />
+      <workItem from="1581496721783" duration="18437000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="164" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581083315948">
@@ -275,5 +233,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="325" y="86" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1581151056249" />
+    <state x="485" y="354" width="1000" height="659" key="Vcs.Push.Dialog.v2" timestamp="1581520164379">
+      <screen x="0" y="65" width="1920" height="1080" />
+    </state>
+    <state x="485" y="354" width="1000" height="659" key="Vcs.Push.Dialog.v2/1920.0.1920.1200/0.65.1920.1080@0.65.1920.1080" timestamp="1581520164379" />
   </component>
 </project>
